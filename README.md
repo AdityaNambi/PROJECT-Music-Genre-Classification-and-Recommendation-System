@@ -34,3 +34,7 @@ The show_spectrogram function generates and displays a Mel spectrogram of the au
 
 11. Example Usage
 This block demonstrates how to use the system: it performs genre prediction on a jazz track, shows top recommendations, and plots its spectrogram for analysis.
+
+
+
+DATASET: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
